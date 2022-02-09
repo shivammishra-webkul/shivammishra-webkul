@@ -6,9 +6,10 @@
 
 # Let's Connect <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
-<a target="_blank" href="https://www.linkedin.com/in/Shivam052/" target="_blank">
+<!-- <a target="_blank" href="https://www.linkedin.com/in/Shivam052/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+!-->
 
 
  
